@@ -1,16 +1,59 @@
 {
-  "posts":[
+  "trips": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "day": "2018-04-29T19:48:41+00:00",
+      "monday": true,
+      "tuesday": false,
+      "wednesday": false,
+      "thursday": true,
+      "friday": false,
+      "saturday": false,
+      "sunday": false
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "day": "2018-05-11T10:30:00+00:00",
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": false,
+      "sunday": false
+    },
+    {
+      "id": 3,
+      "day": "2018-05-05T08:00:00+00:00",
+      "monday": true,
+      "tuesday": false,
+      "wednesday": false,
+      "thursday": false,
+      "friday": false,
+      "saturday": false,
+      "sunday": false
+    },
+    {
+      "id": 4,
+      "day": "2018-04-29T19:48:41+00:00",
+      "monday": false,
+      "tuesday": false,
+      "wednesday": false,
+      "thursday": false,
+      "friday": false,
+      "saturday": false,
+      "sunday": false
+    },
+    {
+      "id": 5,
+      "day": "2017-05-07T12:00:00+00:00",
+      "monday": false,
+      "tuesday": true,
+      "wednesday": false,
+      "thursday": false,
+      "friday": true,
+      "saturday": false,
+      "sunday": false
     }
   ]
 }
